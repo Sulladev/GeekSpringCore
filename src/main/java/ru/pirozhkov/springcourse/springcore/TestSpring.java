@@ -1,4 +1,4 @@
-package ru.pirozhkov.springcourse;
+package ru.pirozhkov.springcourse.springcore;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

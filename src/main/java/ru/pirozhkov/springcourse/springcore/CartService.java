@@ -1,9 +1,6 @@
-package ru.pirozhkov.springcourse;
-
-import ru.pirozhkov.Product;
+package ru.pirozhkov.springcourse.springcore;
 
 
-import java.util.Iterator;
 import java.util.List;
 
 

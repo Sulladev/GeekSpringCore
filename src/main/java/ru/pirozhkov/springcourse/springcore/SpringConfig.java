@@ -1,9 +1,8 @@
-package ru.pirozhkov.springcourse;
+package ru.pirozhkov.springcourse.springcore;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
-import ru.pirozhkov.Product;
 
 import java.util.ArrayList;
 import java.util.List;

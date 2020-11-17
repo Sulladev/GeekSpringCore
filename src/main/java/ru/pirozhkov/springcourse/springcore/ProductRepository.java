@@ -1,6 +1,4 @@
-package ru.pirozhkov.springcourse;
-
-import ru.pirozhkov.Product;
+package ru.pirozhkov.springcourse.springcore;
 
 import java.util.ArrayList;
 import java.util.List;

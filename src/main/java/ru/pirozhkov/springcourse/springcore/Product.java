@@ -1,4 +1,4 @@
-package ru.pirozhkov;
+package ru.pirozhkov.springcourse.springcore;
 
 public class Product {
 
